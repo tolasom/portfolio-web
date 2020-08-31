@@ -1,4 +1,4 @@
 # portfolio-web
 
 ### check out: 
-### http://www.tolasom.me/
+### https://personal-web-tola.herokuapp.com/
